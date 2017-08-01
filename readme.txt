@@ -1,5 +1,4 @@
 //first line
-<<<<<<< Updated upstream
 //second line
 //edited
 //branch2 modifications
@@ -7,3 +6,5 @@
 //variable x = 2;
 variable b=1;
 //text
+
+cherry-pick
